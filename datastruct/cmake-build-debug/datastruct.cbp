@@ -84,6 +84,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/AvlTree.cpp">
+			<Option target="datastruct"/>
+		</Unit>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/AvlTree.h">
+			<Option target="datastruct"/>
+		</Unit>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/BinaryTree.cpp">
+			<Option target="datastruct"/>
+		</Unit>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/BinaryTree.h">
+			<Option target="datastruct"/>
+		</Unit>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/TreeNode.cpp">
+			<Option target="datastruct"/>
+		</Unit>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/TreeNode.h">
+			<Option target="datastruct"/>
+		</Unit>
 		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/main.cpp">
 			<Option target="datastruct"/>
 		</Unit>

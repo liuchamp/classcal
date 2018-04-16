@@ -81,17 +81,95 @@ CMakeFiles/datastruct.dir/main.cpp.o.provides: CMakeFiles/datastruct.dir/main.cp
 CMakeFiles/datastruct.dir/main.cpp.o.provides.build: CMakeFiles/datastruct.dir/main.cpp.o
 
 
+CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o: CMakeFiles/datastruct.dir/flags.make
+CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o: ../avl/BinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o -c /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/BinaryTree.cpp
+
+CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/BinaryTree.cpp > CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.i
+
+CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/BinaryTree.cpp -o CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.s
+
+CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.requires
+
+CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.provides: CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.provides.build
+.PHONY : CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.provides
+
+CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.provides.build: CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o
+
+
+CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o: CMakeFiles/datastruct.dir/flags.make
+CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o: ../avl/TreeNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o -c /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/TreeNode.cpp
+
+CMakeFiles/datastruct.dir/avl/TreeNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/datastruct.dir/avl/TreeNode.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/TreeNode.cpp > CMakeFiles/datastruct.dir/avl/TreeNode.cpp.i
+
+CMakeFiles/datastruct.dir/avl/TreeNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/datastruct.dir/avl/TreeNode.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/TreeNode.cpp -o CMakeFiles/datastruct.dir/avl/TreeNode.cpp.s
+
+CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.requires:
+
+.PHONY : CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.requires
+
+CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.provides: CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.requires
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.provides.build
+.PHONY : CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.provides
+
+CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.provides.build: CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o
+
+
+CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o: CMakeFiles/datastruct.dir/flags.make
+CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o: ../avl/AvlTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o -c /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/AvlTree.cpp
+
+CMakeFiles/datastruct.dir/avl/AvlTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/datastruct.dir/avl/AvlTree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/AvlTree.cpp > CMakeFiles/datastruct.dir/avl/AvlTree.cpp.i
+
+CMakeFiles/datastruct.dir/avl/AvlTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/datastruct.dir/avl/AvlTree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/AvlTree.cpp -o CMakeFiles/datastruct.dir/avl/AvlTree.cpp.s
+
+CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.requires
+
+CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.provides: CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.provides.build
+.PHONY : CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.provides
+
+CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.provides.build: CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o
+
+
 # Object files for target datastruct
 datastruct_OBJECTS = \
-"CMakeFiles/datastruct.dir/main.cpp.o"
+"CMakeFiles/datastruct.dir/main.cpp.o" \
+"CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o" \
+"CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o" \
+"CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o"
 
 # External object files for target datastruct
 datastruct_EXTERNAL_OBJECTS =
 
 datastruct: CMakeFiles/datastruct.dir/main.cpp.o
+datastruct: CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o
+datastruct: CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o
+datastruct: CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o
 datastruct: CMakeFiles/datastruct.dir/build.make
 datastruct: CMakeFiles/datastruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable datastruct"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable datastruct"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/datastruct.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +178,9 @@ CMakeFiles/datastruct.dir/build: datastruct
 .PHONY : CMakeFiles/datastruct.dir/build
 
 CMakeFiles/datastruct.dir/requires: CMakeFiles/datastruct.dir/main.cpp.o.requires
+CMakeFiles/datastruct.dir/requires: CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o.requires
+CMakeFiles/datastruct.dir/requires: CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o.requires
+CMakeFiles/datastruct.dir/requires: CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o.requires
 
 .PHONY : CMakeFiles/datastruct.dir/requires
 

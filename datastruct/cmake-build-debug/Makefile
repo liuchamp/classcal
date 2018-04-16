@@ -123,6 +123,87 @@ datastruct/fast:
 	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/build
 .PHONY : datastruct/fast
 
+avl/AvlTree.o: avl/AvlTree.cpp.o
+
+.PHONY : avl/AvlTree.o
+
+# target to build an object file
+avl/AvlTree.cpp.o:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o
+.PHONY : avl/AvlTree.cpp.o
+
+avl/AvlTree.i: avl/AvlTree.cpp.i
+
+.PHONY : avl/AvlTree.i
+
+# target to preprocess a source file
+avl/AvlTree.cpp.i:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/AvlTree.cpp.i
+.PHONY : avl/AvlTree.cpp.i
+
+avl/AvlTree.s: avl/AvlTree.cpp.s
+
+.PHONY : avl/AvlTree.s
+
+# target to generate assembly for a file
+avl/AvlTree.cpp.s:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/AvlTree.cpp.s
+.PHONY : avl/AvlTree.cpp.s
+
+avl/BinaryTree.o: avl/BinaryTree.cpp.o
+
+.PHONY : avl/BinaryTree.o
+
+# target to build an object file
+avl/BinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o
+.PHONY : avl/BinaryTree.cpp.o
+
+avl/BinaryTree.i: avl/BinaryTree.cpp.i
+
+.PHONY : avl/BinaryTree.i
+
+# target to preprocess a source file
+avl/BinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.i
+.PHONY : avl/BinaryTree.cpp.i
+
+avl/BinaryTree.s: avl/BinaryTree.cpp.s
+
+.PHONY : avl/BinaryTree.s
+
+# target to generate assembly for a file
+avl/BinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.s
+.PHONY : avl/BinaryTree.cpp.s
+
+avl/TreeNode.o: avl/TreeNode.cpp.o
+
+.PHONY : avl/TreeNode.o
+
+# target to build an object file
+avl/TreeNode.cpp.o:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o
+.PHONY : avl/TreeNode.cpp.o
+
+avl/TreeNode.i: avl/TreeNode.cpp.i
+
+.PHONY : avl/TreeNode.i
+
+# target to preprocess a source file
+avl/TreeNode.cpp.i:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/TreeNode.cpp.i
+.PHONY : avl/TreeNode.cpp.i
+
+avl/TreeNode.s: avl/TreeNode.cpp.s
+
+.PHONY : avl/TreeNode.s
+
+# target to generate assembly for a file
+avl/TreeNode.cpp.s:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/TreeNode.cpp.s
+.PHONY : avl/TreeNode.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +240,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... datastruct"
+	@echo "... avl/AvlTree.o"
+	@echo "... avl/AvlTree.i"
+	@echo "... avl/AvlTree.s"
+	@echo "... avl/BinaryTree.o"
+	@echo "... avl/BinaryTree.i"
+	@echo "... avl/BinaryTree.s"
+	@echo "... avl/TreeNode.o"
+	@echo "... avl/TreeNode.i"
+	@echo "... avl/TreeNode.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
