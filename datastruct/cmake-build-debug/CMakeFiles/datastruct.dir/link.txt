@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/datastruct.dir/main.cpp.o CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o  -o datastruct 
+/usr/bin/c++  -g   CMakeFiles/datastruct.dir/main.cpp.o CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o CMakeFiles/datastruct.dir/avl/Bst.cpp.o  -o datastruct 

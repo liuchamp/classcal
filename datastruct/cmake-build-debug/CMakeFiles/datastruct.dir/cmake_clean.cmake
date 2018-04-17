@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.o"
   "CMakeFiles/datastruct.dir/avl/TreeNode.cpp.o"
   "CMakeFiles/datastruct.dir/avl/AvlTree.cpp.o"
+  "CMakeFiles/datastruct.dir/avl/Bst.cpp.o"
   "datastruct.pdb"
   "datastruct"
 )

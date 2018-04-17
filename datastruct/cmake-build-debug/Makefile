@@ -177,6 +177,33 @@ avl/BinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/BinaryTree.cpp.s
 .PHONY : avl/BinaryTree.cpp.s
 
+avl/Bst.o: avl/Bst.cpp.o
+
+.PHONY : avl/Bst.o
+
+# target to build an object file
+avl/Bst.cpp.o:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/Bst.cpp.o
+.PHONY : avl/Bst.cpp.o
+
+avl/Bst.i: avl/Bst.cpp.i
+
+.PHONY : avl/Bst.i
+
+# target to preprocess a source file
+avl/Bst.cpp.i:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/Bst.cpp.i
+.PHONY : avl/Bst.cpp.i
+
+avl/Bst.s: avl/Bst.cpp.s
+
+.PHONY : avl/Bst.s
+
+# target to generate assembly for a file
+avl/Bst.cpp.s:
+	$(MAKE) -f CMakeFiles/datastruct.dir/build.make CMakeFiles/datastruct.dir/avl/Bst.cpp.s
+.PHONY : avl/Bst.cpp.s
+
 avl/TreeNode.o: avl/TreeNode.cpp.o
 
 .PHONY : avl/TreeNode.o
@@ -246,6 +273,9 @@ help:
 	@echo "... avl/BinaryTree.o"
 	@echo "... avl/BinaryTree.i"
 	@echo "... avl/BinaryTree.s"
+	@echo "... avl/Bst.o"
+	@echo "... avl/Bst.i"
+	@echo "... avl/Bst.s"
 	@echo "... avl/TreeNode.o"
 	@echo "... avl/TreeNode.i"
 	@echo "... avl/TreeNode.s"

@@ -96,6 +96,12 @@
 		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/BinaryTree.h">
 			<Option target="datastruct"/>
 		</Unit>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/Bst.cpp">
+			<Option target="datastruct"/>
+		</Unit>
+		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/Bst.h">
+			<Option target="datastruct"/>
+		</Unit>
 		<Unit filename="/home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/avl/TreeNode.cpp">
 			<Option target="datastruct"/>
 		</Unit>
