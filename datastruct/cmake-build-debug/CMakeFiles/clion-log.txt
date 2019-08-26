@@ -1,4 +1,0 @@
-/home/liuchamp/bin/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct
--- Configuring done
--- Generating done
--- Build files have been written to: /home/liuchamp/Workspace/tuwoworkspace/classcal/datastruct/cmake-build-debug
