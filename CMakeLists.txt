@@ -12,6 +12,9 @@ include_directories(${gtest_SOURCE_DIR}/include ${gtest_SOURCE_DIR})
 
 set(3RD_LIBS gtest pthread)
 
+
+
+add_subdirectory(basic)
 add_subdirectory(datastruct)
 add_subdirectory(dsmode)
 add_subdirectory(sort)
