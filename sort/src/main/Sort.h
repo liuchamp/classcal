@@ -9,7 +9,7 @@
 
 class Sort {
 public:
-    bubble(std::vector<int> &num);
+    void bubble(std::vector<int> &num);
 };
 
 

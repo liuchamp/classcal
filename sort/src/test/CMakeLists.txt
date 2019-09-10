@@ -3,6 +3,9 @@ add_executable(
         runUnitTests
         bubbletest.cpp
 )
-target_link_libraries(runUnitTests gtest gtest_main)
+
+include_directories(../main)
+
+target_link_libraries(runUnitTests gtest gtest_main ${CMAKE_DL_LIBS})
 
 add_test(runUnitTests runUnitTests)
